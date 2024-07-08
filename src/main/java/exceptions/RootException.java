@@ -1,7 +1,7 @@
 package exceptions;
 
 
-import com.taskmanager.constants.enums.exceptionCodes.RootExceptionCodes;
+import com.languagemodelservice.constants.enums.exceptionCodes.RootExceptionCodes;
 import org.springframework.http.HttpStatus;
 
 import java.util.HashMap;
