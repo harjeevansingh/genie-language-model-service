@@ -4,6 +4,7 @@ package com.languagemodelservice.services;
  * Author: harjeevansingh
  */
 
+import com.languagemodelservice.utils.FaqUtil;
 import com.theokanning.openai.completion.chat.ChatCompletionRequest;
 import com.theokanning.openai.completion.chat.ChatMessage;
 import com.theokanning.openai.service.OpenAiService;
@@ -30,7 +31,7 @@ public class LanguageModelService {
         List<ChatMessage> messages = new ArrayList<>();
 
         // Add system message to set the context
-        messages.add(new ChatMessage("system", "You are a helpful AI assistant."));
+        messages.add(new ChatMessage("system", "You are a helpful AI assistant for an online lending app QuickLoan. Only answer the questions which can be answered using the attached FAQs, otherwise politely and professionally deny answering and mention to ask relevant questions only i.e. related to QuickLoan. Use the following FAQ to assist with answers when relevant:\n\n" + FaqUtil.loadFaq()));
 
         // Add conversation history
         if(Objects.nonNull(conversationHistory)){

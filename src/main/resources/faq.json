@@ -1,0 +1,64 @@
+{
+  "faqs": [
+    {
+      "question": "What is QuickLoan?",
+      "answer": "QuickLoan is a digital lending platform that provides instant personal loans and credit lines to individuals and small businesses."
+    },
+    {
+      "question": "How do I apply for a loan on QuickLoan?",
+      "answer": "To apply for a loan, download the QuickLoan app, complete the registration process, upload the required documents, and submit your loan application. The approval process is typically completed within minutes."
+    },
+    {
+      "question": "What documents do I need to apply for a loan?",
+      "answer": "You'll need to provide a valid government ID (such as Aadhaar or PAN card), proof of address, recent bank statements, and income proof (like salary slips or IT returns)."
+    },
+    {
+      "question": "What is the maximum loan amount I can get?",
+      "answer": "Loan amounts vary based on your credit score, income, and repayment capacity. New users can typically borrow between ₹5,000 to ₹1,00,000, while established users may be eligible for higher amounts."
+    },
+    {
+      "question": "What are the interest rates on QuickLoan?",
+      "answer": "Our interest rates start from 1.5% per month. The exact rate depends on your credit score, loan amount, and tenure."
+    },
+    {
+      "question": "How long does it take to get the loan amount disbursed?",
+      "answer": "Once approved, loan amounts are typically disbursed within 24 hours to your registered bank account."
+    },
+    {
+      "question": "How do I repay my loan?",
+      "answer": "You can repay your loan through the QuickLoan app using UPI, net banking, or debit card. We also offer auto-debit options for hassle-free repayments."
+    },
+    {
+      "question": "Is there a prepayment or foreclosure charge?",
+      "answer": "No, QuickLoan does not charge any prepayment or foreclosure fees. You're free to repay your loan earlier than scheduled without any extra charges."
+    },
+    {
+      "question": "What happens if I miss a payment?",
+      "answer": "Late payments incur a penalty fee and may negatively impact your credit score. If you're facing difficulties, please contact our customer support to discuss potential repayment options."
+    },
+    {
+      "question": "How is my credit limit determined?",
+      "answer": "Your credit limit is determined based on factors such as your credit score, income, repayment history, and overall financial profile."
+    },
+    {
+      "question": "Is my personal and financial information secure with QuickLoan?",
+      "answer": "Yes, we use bank-grade encryption to protect all your data. We never share your personal information with third parties without your consent."
+    },
+    {
+      "question": "Can I increase my credit limit?",
+      "answer": "Yes, you can request a credit limit increase through the app. Limit increases are subject to your repayment history and overall creditworthiness."
+    },
+    {
+      "question": "Does QuickLoan affect my credit score?",
+      "answer": "Applying for a loan on QuickLoan may result in a soft inquiry on your credit report, which doesn't affect your score. However, taking a loan and your repayment behavior will impact your credit score."
+    },
+    {
+      "question": "What should I do if I face issues with the app?",
+      "answer": "If you're experiencing issues with the app, try clearing the app cache or reinstalling it. If problems persist, please contact our customer support team through the app or email."
+    },
+    {
+      "question": "How can I contact QuickLoan customer support?",
+      "answer": "You can reach our customer support team through the 'Help & Support' section in the app, by emailing support@quickloan.com, or by calling our toll-free number 1800-XXX-XXXX between 9 AM to 9 PM, seven days a week."
+    }
+  ]
+}
