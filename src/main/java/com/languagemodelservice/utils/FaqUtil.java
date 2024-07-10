@@ -43,7 +43,7 @@ public class FaqUtil {
             return faqString.toString();
         } catch (IOException e) {
             log.error("Error loading FAQ", e);
-            throw new RuntimeException("Something went wrong, please try after sometime.");
+            return "I apologize, but I'm currently experiencing difficulties. Please try again later. If the problem persists, contact support.";
         }
     }
 }
