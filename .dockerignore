@@ -1,0 +1,6 @@
+**/target/
+!target/language-model-service.jar
+.gitignore
+.git
+README.md
+.env
